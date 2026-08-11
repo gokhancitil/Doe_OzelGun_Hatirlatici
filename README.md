@@ -30,8 +30,8 @@ Programı kullanmak için bilgisayarınıza herhangi bir şey kurmanıza gerek y
 
 ## 📸 Ekran Görüntüleri
 
-*<img width="446" height="552" alt="image" src="https://github.com/user-attachments/assets/f54e7b81-d317-4a42-bb42-cbceccd45f5d" />
-*
+<img width="446" height="552" alt="image" src="https://github.com/user-attachments/assets/f54e7b81-d317-4a42-bb42-cbceccd45f5d" />
+
 
 ---
 

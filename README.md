@@ -28,7 +28,7 @@ Programı kullanmak için bilgisayarınıza herhangi bir şey kurmanıza gerek y
 
 ---
 
-## 📸 Ekran Görüntüleri
+## 📸 Free Hatırlatıcı Ekran Görüntüleri
 
 <img width="446" height="552" alt="image" src="https://github.com/user-attachments/assets/f54e7b81-d317-4a42-bb42-cbceccd45f5d" />
 
@@ -48,6 +48,9 @@ Programın tam donanımlı asıl sürümü olan **Doe Hatırlatıcı Pro** ile s
 gönderir. Böylece bilgisayar başında olmasanız bile hiçbir özel anı kaçırmazsınız!
 
 **Pro sürümüne sahip olmak, projelerinize entegre etmek veya detaylı bilgi almak için bana ulaşabilirsiniz:**
+## 📸 Pro Hatırlatıcı Ekran Görüntüleri
+<img width="449" height="648" alt="image" src="https://github.com/user-attachments/assets/cc541ab9-8479-4eb2-b8b3-19b24fccdd8c" />
+
 * 🌐 **Web Sitesi:** [gokhancitil.com](https://gokhancitil.com)
 * ✉️ **E-Posta:** gokhancitil@gmail.com
 

@@ -36,7 +36,7 @@ Programı kullanmak için bilgisayarınıza herhangi bir şey kurmanıza gerek y
 ---
 
 ## 💎 Doe Hatırlatıcı PRO (Gelişmiş Sürüm)
-<img width="449" height="648" alt="image" src="https://github.com/user-attachments/assets/cc541ab9-8479-4eb2-b8b3-19b24fccdd8c" />
+
 Burada açık kaynaklı paylaşılan **v1 sürümü**, basit ve temel kullanım için tasarlanmıştır.
 
 Programın tam donanımlı asıl sürümü olan **Doe Hatırlatıcı Pro** ile sadece masaüstü uyarıları değil, çok daha fazlasını elde edersiniz! Sistem sizin için arka planda çalışırken, belirlediğiniz özel tarih ve saat geldiğinde doğrudan cihazlarınıza:
@@ -46,6 +46,8 @@ Programın tam donanımlı asıl sürümü olan **Doe Hatırlatıcı Pro** ile s
 * 💬 **WhatsApp Bildirimi**
 
 gönderir. Böylece bilgisayar başında olmasanız bile hiçbir özel anı kaçırmazsınız!
+
+<img width="449" height="648" alt="image" src="https://github.com/user-attachments/assets/cc541ab9-8479-4eb2-b8b3-19b24fccdd8c" />
 
 **Pro sürümüne sahip olmak, projelerinize entegre etmek veya detaylı bilgi almak için bana ulaşabilirsiniz:**
 

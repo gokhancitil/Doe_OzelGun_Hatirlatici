@@ -29,7 +29,27 @@ Programı kullanmak için bilgisayarınıza herhangi bir şey kurmanıza gerek y
 ---
 
 ## 📸 Ekran Görüntüleri
-*(Buraya programın çalıştığı arayüzün şık bir ekran görüntüsünü ekleyebilirsiniz)*
+
+*<img width="446" height="552" alt="image" src="https://github.com/user-attachments/assets/f54e7b81-d317-4a42-bb42-cbceccd45f5d" />
+*
+
+---
+
+## 💎 Doe Hatırlatıcı PRO (Gelişmiş Sürüm)
+
+Burada açık kaynaklı paylaşılan **v1 sürümü**, basit ve temel kullanım için tasarlanmıştır.
+
+Programın tam donanımlı asıl sürümü olan **Doe Hatırlatıcı Pro** ile sadece masaüstü uyarıları değil, çok daha fazlasını elde edersiniz! Sistem sizin için arka planda çalışırken, belirlediğiniz özel tarih ve saat geldiğinde doğrudan cihazlarınıza:
+
+* 📱 **Özel SMS Bildirimi**
+* 📧 **E-Posta (Mail) Bildirimi**
+* 💬 **WhatsApp Bildirimi**
+
+gönderir. Böylece bilgisayar başında olmasanız bile hiçbir özel anı kaçırmazsınız!
+
+**Pro sürümüne sahip olmak, projelerinize entegre etmek veya detaylı bilgi almak için bana ulaşabilirsiniz:**
+* 🌐 **Web Sitesi:** [gokhancitil.com](https://gokhancitil.com)
+* ✉️ **E-Posta:** gokhancitil@gmail.com
 
 ---
 
